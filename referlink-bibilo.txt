@@ -1,0 +1,9 @@
+https://covid19.who.int/
+https://www.oneindia.com/coronavirus-affected-cities-districts-in-india.html
+
+urworldindata.org/grapher/full-list-total-tests-for-covid-19?time=2020-02-20..latest
+www.anaconda.com
+https://stackoverflow.com/
+https://www.guru99.com/python-mysql-example.html
+https://www.geeksforgeeks.org/python-read-csv-using-pandas-read_csv/
+https://pythonbasics.org/matplotlib-bar-chart/
